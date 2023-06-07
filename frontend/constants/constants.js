@@ -1,0 +1,2 @@
+export const FETCH_HOUSES = "FETCH_HOUSES";
+export const CREATE_HOUSES = "CREATE_HOUSES";
